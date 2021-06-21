@@ -21,7 +21,7 @@ sections:
 
         content_align: center
         actions:
-          - label: neS
+          - label: Send Enquiry
             url: /general-enquiries
             style: link
             has_icon: true
