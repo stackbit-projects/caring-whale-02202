@@ -98,7 +98,7 @@ sections:
 
           For Data Analysis course, the instructions for recommended
           applications to download will be sent to you via email.
-      - title: Sagittis vitae et leo duis ut diam?
+      - title: Where can I view all the classes available?
         content: >-
           Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
           diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
