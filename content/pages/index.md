@@ -127,7 +127,7 @@ sections:
           analysis at a young age cements the foundation to a successful career
           in the future. ”
         subtitle: 'Founder, Pluto Academy (Previously A1 Code Academy)'
-        image: images/brandon-guidelines.png
+        image: /images/about-2.jpg
         image_alt: Brandon Guidelines
         media_position: right
         media_width: thirty-three
