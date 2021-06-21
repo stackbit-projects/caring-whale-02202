@@ -66,7 +66,7 @@ sections:
         content_align: left
         actions:
           - label: Enquire!
-            url: 'https://lu.ma/pluto-academy'
+            url: hi@plutoacademy.co
             style: primary
         actions_align: left
         actions_width: full-width
