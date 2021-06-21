@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: Classes
+    title: Our Classes
     content: >+
       At Pluto Academy, we teach kids what it takes to succeed in our global new
       age economy, equips them with the success skills they need, and sets them
