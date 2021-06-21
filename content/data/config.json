@@ -2,7 +2,7 @@
     "title": "Pluto Academy",
     "path_prefix": "/",
     "layout_type": "boxed",
-    "style": "minimal",
+    "style": "classic",
     "palette": "purple",
     "mode": "light",
     "base_font": "sans-serif",
