@@ -75,10 +75,17 @@ sections:
         media_position: right
         media_width: fifty
       - title: 5-Part + Demo Day Entrepreneurship Class!
-        content: >-
-          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
-          diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
-          euismod lacinia.
+        content: >+
+          This course teaches kids what it takes to succeed in our global new
+          age economy, equips them with the success skills they need, and sets
+          them in the right direction for understanding entrepreneurship at a
+          young age. Pluto's Entrepreneurship Class is a **5 Day Program (1 hour
+          each + team projects + presentation day!)** is an interactive
+          curriculum training program that not only teaches kids about
+          entrepreneurship, but sets children up to become successful
+          entrepreneurs and allows parents to get involved in the process every
+          step of the way... oh and did we mention it's fun?!
+
         actions:
           - label: Learn More
             url: /style-guide
