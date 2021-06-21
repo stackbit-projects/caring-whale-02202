@@ -45,7 +45,7 @@ sections:
           *   5-Day Entrepreneurship Classes (Weekends: Saturdays or Sundays)
         content_align: left
         actions:
-          - label: Start with Premium
+          - label: Register Now >>
             url: /features
             style: primary
         actions_align: left
