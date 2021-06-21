@@ -12,17 +12,17 @@ sections:
       - title: Single Session
         subtitle: Group Classes
         title_align: left
-        content: |-
-          ---
+        content: |
+          ***
 
-          ### $9
+          ### SGD $35
 
-          per month, billed yearly
+          per 90 minutes
 
-          * Et semper leo mattis orci conubia congue
-          * Quisque eleifend imperdiet tortor
-          * Elementum eu rhoncus, volutpat
-          * Nisi cubilia interdum ultricies
+          **Applies to the following classes:**
+
+          *   Personal Finance
+          *   Data Analysis
         content_align: left
         actions:
           - label: Start with Personal
