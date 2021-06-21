@@ -105,7 +105,7 @@ sections:
           an introduction to Data Analysis!
         actions:
           - label: Register Now!
-            url: /style-guide
+            url: 'https://lu.ma/pluto-academy'
             style: primary
             has_icon: true
             icon: arrow-right
