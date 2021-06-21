@@ -160,6 +160,9 @@ sections:
           what I do to my son. I'm glad he got the chance to participate in this
           course, the teacher managed to decipher what I do into very
           easy-to-understand pieces of learning content."*
+
+
+          **
         image: images/eleanor-carr.png
         image_alt: Eleanor Carr
         image_position: left
