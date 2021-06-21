@@ -11,7 +11,7 @@ sections:
       **personal finance, entrepreneurship, design and coding** at a young age.
 
     actions:
-      - label: Try Free
+      - label: View All Classes >>
         url: /pricing
         style: primary
       - label: Learn More
