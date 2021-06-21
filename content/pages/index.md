@@ -154,15 +154,8 @@ sections:
         image_alt: Miles Tone
         image_position: left
         image_width: twenty-five
-      - content: >
-          *"I found the Data Analysis course was very well structured and
-          engaging. As a data science person myself, I find it hard to explain
-          what I do to my son. I'm glad he got the chance to participate in this
-          course, the teacher managed to decipher what I do into very
-          easy-to-understand pieces of learning content."*
-
-
-          **
+      - content: |
+          8yikyuk
         image: images/eleanor-carr.png
         image_alt: Eleanor Carr
         image_position: left
