@@ -12,8 +12,9 @@ tags:
   - content/data/tags/jamstack.yaml
   - content/data/tags/netlify.yaml
 excerpt: >-
-  Quae diligentissime contra Aristonem dicuntur a Chryippo. Videamus igitur
-  sententias eorum, tum ad verba redeamus. Levatio igitur vitiorum magna.
+  As part of the Entrepreneurship class, students get to learn how to launch
+  their own website for their business idea. Check out what one of our students
+  did as her final project website!
 thumb_image: images/classic/post-2.png
 thumb_image_alt: Post 2 placeholder image
 image: images/classic/post-2.png
