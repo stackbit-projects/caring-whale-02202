@@ -37,8 +37,8 @@ sections:
           Enquiring about a class?
 
 
-          Please contact us at hi@plutoacademy.co with your full name and mobile
-          number!
+          **Please contact us at hi@plutoacademy.co with your full name and
+          mobile number!**
         content_align: center
         actions: []
         actions_align: center
