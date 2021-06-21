@@ -109,7 +109,7 @@ sections:
 
           Please send us an email at hi@plutoacademy.co and we'll arrange for a
           make up session (the next available class).
-      - title: Cras tincidunt lobortis feugiat vivamus at augue eget arcu?
+      - title: I'm not sure which class to register my child for.. can you help?
         content: >-
           Blandit aliquam etiam erat velit. In massa tempor nec feugiat.
           Volutpat maecenas volutpat blandit aliquam. Sem integer vitae justo
