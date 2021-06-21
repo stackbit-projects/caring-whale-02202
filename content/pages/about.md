@@ -77,10 +77,11 @@ sections:
         actions_align: left
         actions_width: auto
       - title: Gather at Our Virtual Cafe!
-        content: >-
-          1234 Some St.<br/> Some City, ST 12345<br/>
-          [1-234-556-7890](tel:+12345567890)<br/>
-          [email@example.com](mailto:email@example.com)
+        content: >
+          Pluto Academy's virtual (desktop based) cafe is open to parents and
+          students who have registered for upcoming classes. The link to the
+          virtual cafe will be sent to you once you have paid and registered for
+          any of Pluto's classes.
         content_align: left
         actions:
           - label: Get Directions
