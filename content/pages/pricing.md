@@ -25,7 +25,7 @@ sections:
           *   Data Analysis
         content_align: left
         actions:
-          - label: View Classes >>
+          - label: Register Now >>
             url: /features
             style: primary
         actions_align: left
