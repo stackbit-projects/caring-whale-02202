@@ -49,9 +49,8 @@ sections:
         image_has_padding: true
       - title: Other Queries
         title_align: center
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel.
+        content: |
+          Please send all other enquiries to our enquiries page:
         content_align: center
         actions:
           - label: Get Support
