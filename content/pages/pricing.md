@@ -109,7 +109,7 @@ sections:
           make up session (the next available class).
         actions:
           - label: Get In Touch Here >>
-            url: '#'
+            url: /general-enquiries
             style: link
             has_icon: false
             icon: arrow-left
