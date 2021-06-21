@@ -79,7 +79,7 @@
             },
             {
                 "label": "Student Projects",
-                "url": "/blog/category/tutorials",
+                "url": "/blog",
                 "style": "link"
             }
         ],
