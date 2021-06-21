@@ -88,7 +88,7 @@ sections:
         media_position: left
         media_width: fifty
       - title: Essential Data Analysis Class
-        subtitle: 'Sed sed commodo turpis, eget rutrum dui.'
+        subtitle: '$35 Per Student, 1.5 hours Per Class'
         content: >-
           Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
           diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
