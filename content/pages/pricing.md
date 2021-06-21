@@ -99,10 +99,9 @@ sections:
           For Data Analysis course, the instructions for recommended
           applications to download will be sent to you via email.
       - title: Where can I view all the classes available?
-        content: >-
-          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
-          diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
-          euismod lacinia.
+        content: >
+          You can check out our classes here at
+          [**https://lu.ma/pluto-academy**](https://lu.ma/pluto-academy)
       - title: Viverra nam libero justo laoreet sit?
         content: >-
           In tellus integer feugiat scelerisque. Aliquam eleifend mi in nulla
