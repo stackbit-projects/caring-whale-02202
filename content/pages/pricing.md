@@ -3,7 +3,7 @@ title: Pricing
 sections:
   - type: hero_section
     title: Class Pricing
-    subtitle: Optional hero section subtitle
+    subtitle: 'Fun and Engaging Classes at an Affordable Price:'
     align: center
     padding_top: large
     padding_bottom: small
