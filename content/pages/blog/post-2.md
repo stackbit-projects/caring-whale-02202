@@ -6,7 +6,6 @@ categories:
   - content/data/categories/news.yaml
   - content/data/categories/general.yaml
 tags:
-  - content/data/tags/jamstack.yaml
   - content/data/tags/netlify.yaml
 excerpt: >-
   As part of the Entrepreneurship class, students get to learn how to launch
