@@ -115,7 +115,7 @@ sections:
 
           Simply send us an enquiry and we'll get back to you shortly!
         actions:
-          - label: lorem-ipsum
+          - label: Enquire Here >>
             url: '#'
             style: link
             has_icon: false
