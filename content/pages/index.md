@@ -14,8 +14,7 @@ sections:
       - label: View All Classes >>
         url: 'https://lu.ma/pluto-academy'
         style: primary
-    image: >-
-      /images/vecteezy_education-graduation-illustration-background_AW0321_generated.jpg
+    image: /images/Pluto Academy Header.png
     image_alt: Hero section placeholder image
     media_position: left
     media_width: fifty
