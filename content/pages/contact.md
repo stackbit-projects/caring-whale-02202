@@ -15,10 +15,8 @@ sections:
     grid_items:
       - title: Partnering and Sponsorships
         title_align: center
-        content: >+
-          Please drop us a message at hi@plutoacademy.co with more details of
-          your program.
-
+        content: |
+          Please drop us a message with more details of your program:
         content_align: center
         actions:
           - label: Send Enquiry
