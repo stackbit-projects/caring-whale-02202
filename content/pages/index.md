@@ -64,7 +64,7 @@ sections:
 
 
         actions:
-          - label: Learn More
+          - label: Register Now!
             url: /style-guide
             style: primary
             has_icon: true
