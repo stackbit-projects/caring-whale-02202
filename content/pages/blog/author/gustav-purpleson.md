@@ -2,7 +2,7 @@
 title: Pluto Academy
 sections:
   - type: hero_section
-    title: Gustav Purpleson
+    title: Pluto Academy Team
     subtitle: The optional subtitle
     align: center
     padding_top: medium
