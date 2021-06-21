@@ -137,12 +137,11 @@ sections:
     title: Testimonials
     subtitle: What Parents Say
     grid_items:
-      - content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus.
-
-
-          **Hanson Deck,** *App Developer, Studio*
+      - content: >
+          “My girls, ages 7 and 9, really enjoyed their first class with their
+          teacher at Pluto Academy. They liked her very much and told me they
+          enjoyed the class. They get so excited to make programs that they have
+          the ability to control! Highly recommended!”
         image: images/hanson-deck.png
         image_alt: Hanson Deck
         image_position: left
