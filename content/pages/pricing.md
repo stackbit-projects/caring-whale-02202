@@ -102,7 +102,7 @@ sections:
         content: >
           You can check out our classes here at
           [**https://lu.ma/pluto-academy**](https://lu.ma/pluto-academy)
-      - title: Viverra nam libero justo laoreet sit?
+      - title: What if my child's laptop hangs in the middle of the class?
         content: >-
           In tellus integer feugiat scelerisque. Aliquam eleifend mi in nulla
           posuere. Bibendum neque egestas congue quisque egestas. Mauris sit
