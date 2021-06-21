@@ -90,7 +90,9 @@ sections:
     background_color: none
   - type: cta_section
     title: Sign Up For Classes
-    content: Ut egestas elementum suscipit. Quisque at hendrerit mauris.
+    content: >
+      Ready? We're excited to meet you! Register for our classes by clicking the
+      button below:
     actions:
       - label: Compare Plans
         url: /pricing
