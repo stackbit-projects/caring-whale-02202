@@ -168,7 +168,7 @@ sections:
       Engage our friendly tutors via live Whatsapp Text and let us find the best
       class for your child this weekend!
     actions:
-      - label: Learn More
+      - label: Free Consultation >>
         url: /features
         style: secondary
     actions_position: right
