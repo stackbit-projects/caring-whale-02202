@@ -116,7 +116,7 @@ sections:
           Simply send us an enquiry and we'll get back to you shortly!
         actions:
           - label: Enquire Here >>
-            url: lareneg/
+            url: /general-enquiries
             style: link
             has_icon: false
             icon: arrow-left
