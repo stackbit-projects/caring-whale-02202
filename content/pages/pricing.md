@@ -33,18 +33,16 @@ sections:
       - title: 5-Day Entrepreneur Class
         subtitle: Group Classes
         title_align: left
-        content: |-
-          ---
+        content: |
+          ***
 
-          ### $19
+          ### SGD $200
 
-          per month, billed yearly
+          per 5-classes
 
-          * Et semper leo mattis orci conubia congue
-          * Quisque eleifend imperdiet tortor
-          * Elementum eu rhoncus, volutpat
-          * Fringilla diam magnis libero lacinia
-          * Litora primis facilisis ullamcorper per
+          **Applies to:**
+
+          *   5-Day Entrepreneurship Classes (Weekends: Saturdays or Sundays)
         content_align: left
         actions:
           - label: Start with Premium
