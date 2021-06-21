@@ -163,7 +163,7 @@ sections:
     background_color: secondary
     enable_cards: false
   - type: cta_section
-    title: Inter
+    title: Not Sure Which Course to Take?
     content: >-
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
       ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
