@@ -119,5 +119,6 @@
         "anncmnt_has_close": true,
         "anncmnt_id": "new-features"
     },
-    "domain": "https://www.pluto.academy"
+    "domain": "https://www.pluto.academy",
+    "favicon": "/images/favicon-32x32.png"
 }
