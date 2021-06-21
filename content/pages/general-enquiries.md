@@ -3,7 +3,7 @@ title: General enquiries
 sections:
   - type: hero_section
     title: Got Questions?
-    subtitle: The optional subtitle
+    subtitle: We're here to answer them!
     align: center
     padding_top: medium
     padding_bottom: medium
