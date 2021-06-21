@@ -75,7 +75,7 @@ sections:
         content: "Pluto's Entrepreneurship Class is a **5 Day Program (1.5 hour each + team projects + presentation day!)** is an interactive curriculum training program that not only teaches kids about entrepreneurship, but sets children up to become successful entrepreneurs and **allows parents to get involved in the process every step of the way**... oh and did we mention it's fun?!\n\n**In this class, students will achieve:**\n\n*   Business Ideation and Strategy\r\n\n*   Project Management and Timeline Planning\r\n\n*   Pitch Deck Creation & Pitching\r\n\n*   Launch a Mobile-Responsive Website and Create Social Media Marketing Materials\n"
         actions:
           - label: Register Now!
-            url: /style-guide
+            url: 'https://lu.ma/pluto-academy'
             style: primary
             has_icon: true
             icon: arrow-right
