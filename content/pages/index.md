@@ -89,10 +89,23 @@ sections:
         media_width: fifty
       - title: Essential Data Analysis Class
         subtitle: '$35 Per Student, 1.5 hours Per Class'
-        content: >-
-          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
-          diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
-          euismod lacinia.
+        content: >
+          If you’re an adult data enthusiast, then you know what it feels like
+          to uncover a powerful insight within your data. But this aha moment
+          doesn’t have to be restricted to grownups.
+
+
+          So how do you introduce kids with no data background into the data
+          world? **Give them that same aha experience, of course!**
+
+
+          Kid or grownup, it takes the same two ingredients to get someone
+          started on their data journey: **a data set that appeals to the
+          person’s interests, and questions that the data can help answer.**
+          When you have these two things, you can’t help but be intrigued! And
+          kids are no exception. Join us for this interactive and fun 1.5 hour
+          session where you and your child will be using **Tableau **to
+          experience an introduction to Data Analysis!
         actions:
           - label: Learn More
             url: /style-guide
