@@ -164,10 +164,9 @@ sections:
     enable_cards: false
   - type: cta_section
     title: Not Sure Which Course to Take?
-    content: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-      ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-      fringilla, fringilla.
+    content: >
+      Engage our friendly tutors via live Whatsapp Text and let us find the best
+      class for your child this weekend!
     actions:
       - label: Learn More
         url: /features
