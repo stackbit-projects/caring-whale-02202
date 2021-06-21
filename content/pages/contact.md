@@ -40,13 +40,7 @@ sections:
           Please contact us at hi@plutoacademy.co with your full name and mobile
           number!
         content_align: center
-        actions:
-          - label: Get Support
-            url: /general-enquiries
-            style: secondary
-            has_icon: true
-            icon: arrow-right
-            icon_position: right
+        actions: []
         actions_align: center
         image: images/classic/icon-2.svg
         image_alt: Help and support icon
