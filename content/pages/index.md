@@ -87,7 +87,7 @@ sections:
           step of the way... oh and did we mention it's fun?!
 
         actions:
-          - label: Learn More
+          - label: Register Now!
             url: /style-guide
             style: primary
             has_icon: true
