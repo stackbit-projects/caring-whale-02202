@@ -164,7 +164,7 @@ sections:
         image_alt: Eleanor Carr
         image_position: left
         image_width: twenty-five
-      - title: lorem-ipsum
+      - title: Interested in Participating in Our Classes?
         subtitle: lorem-ipsum
         title_align: left
         content: >-
