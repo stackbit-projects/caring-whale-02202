@@ -5,8 +5,7 @@ author: content/data/team/hilary-ouse.yaml
 categories:
   - content/data/categories/news.yaml
   - content/data/categories/general.yaml
-tags:
-  - content/data/tags/netlify.yaml
+tags: []
 excerpt: >-
   As part of the Entrepreneurship class, students get to learn how to launch
   their own website for their business idea. Check out what one of our students
