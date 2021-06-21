@@ -31,10 +31,38 @@ sections:
     features:
       - title: Personal Finance 101
         subtitle: (SGD $20 Per Student)
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
+        content: >+
+          Warren Buffett bought his first share of stock at 11 yrs old.  It is
+          NEVER to early to learn about Finance. Financial Literacy is a skill
+          that is imperative for success in life but is also seldom taught. 
+          This class will be catered to two groups: Primary School Students and
+          Secondary School Students.
+
+
+          **Primary School Class - Topics:**
+
+
+          1.  What is Money?
+
+
+          2.  Allowances and Spending Plan
+
+
+          3.  Earning Money
+
+
+          **Secondary School Class - Topics:**
+
+
+          1.  Time Value of Money
+
+
+          2.  Credit Cards and Interest Rates
+
+
+          3.  Introduction to Investments and Growing Wealth
+
+
         actions:
           - label: Learn More
             url: /style-guide
