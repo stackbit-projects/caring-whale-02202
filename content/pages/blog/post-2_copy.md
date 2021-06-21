@@ -1,7 +1,6 @@
 ---
 title: Made an Allowance Budgeting Sheet!
 date: '2020-05-25'
-author: content/data/team/hilary-ouse.yaml
 categories:
   - content/data/categories/news.yaml
   - content/data/categories/general.yaml
