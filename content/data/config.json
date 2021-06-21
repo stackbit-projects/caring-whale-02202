@@ -2,8 +2,8 @@
     "title": "Stackbit DIY Theme",
     "path_prefix": "/",
     "layout_type": "boxed",
-    "style": "classic",
-    "palette": "green",
+    "style": "minimal",
+    "palette": "red",
     "mode": "light",
     "base_font": "serif",
     "header": {
