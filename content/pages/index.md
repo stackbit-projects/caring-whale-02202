@@ -87,7 +87,7 @@ sections:
         image_alt: Feature 2 placeholder image
         media_position: left
         media_width: fifty
-      - title: Essential Data Analysis Class
+      - title: Intro to Data Analysis Class with Tableau!
         subtitle: '$35 Per Student, 1.5 hours Per Class'
         content: >
           If you’re an adult data enthusiast, then you know what it feels like
