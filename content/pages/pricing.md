@@ -108,7 +108,7 @@ sections:
           Please reach our team via the enquiry form and we'll arrange for a
           make up session (the next available class).
         actions:
-          - label: lorem-ipsum
+          - label: Get In Touch Here >>
             url: '#'
             style: link
             has_icon: false
