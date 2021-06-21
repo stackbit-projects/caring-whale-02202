@@ -25,7 +25,7 @@ sections:
           *   Data Analysis
         content_align: left
         actions:
-          - label: Start with Personal
+          - label: View Classes >>
             url: /features
             style: primary
         actions_align: left
