@@ -38,7 +38,7 @@ sections:
 
           ### SGD $200
 
-          per 5-classes
+          per 5-classes of 90 minutes each, per student
 
           **Applies to:**
 
