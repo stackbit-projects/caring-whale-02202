@@ -12,8 +12,9 @@ tags:
   - content/data/tags/jamstack.yaml
   - content/data/tags/netlify.yaml
 excerpt: >-
-  Quae diligentissime contra Aristonem dicuntur a Chryippo. Videamus igitur
-  sententias eorum, tum ad verba redeamus. Levatio igitur vitiorum magna.
+  One of the most important things in Personal Finance is the ability to manage
+  one's budget. View the Allowance Budgeting Sheet that one of our students
+  created!
 thumb_image: /images/classic/post-3.png
 thumb_image_alt: Post 2 placeholder image
 image: images/classic/post-2.png
