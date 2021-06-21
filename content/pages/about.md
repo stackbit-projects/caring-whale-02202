@@ -94,7 +94,7 @@ sections:
       Ready? We're excited to meet you! Register for our classes by clicking the
       button below:
     actions:
-      - label: Compare Plans
+      - label: All Classes >>
         url: /pricing
         style: primary
     align: center
