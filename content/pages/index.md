@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: Holistic Education for Kids 6-16 years old
-    subtitle: Optional hero section subtitle
+    subtitle: 'Learn: Entrepreneurship, Personal Finance, Design, and Code'
     content: >-
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
       ligula, cursus id molestie vel.
