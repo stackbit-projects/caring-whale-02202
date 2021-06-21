@@ -9,18 +9,24 @@ sections:
     padding_bottom: medium
     background_color: none
   - type: form_section
-    content: >-
-      ## Billing
+    content: >
+      ## "How do I make Payment?"
 
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-      ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-      fringilla, fringilla.
 
-      ## Privacy
+      Payment is accepted through the registration portal at
+      <https://lu.ma/pluto-academy.> We accept most credit card payments.
 
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-      ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-      fringilla, fringilla.
+
+      Currently, we do not take PayNow / Cash / Cheque payments.
+
+
+      ## Other FAQ
+
+
+      Laptop requirements? More information on pricing?
+
+
+      View our common FAQ and Pricing Page here.
     content_align: left
     form_position: right
     form_width: fifty
