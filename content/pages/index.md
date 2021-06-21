@@ -126,7 +126,7 @@ sections:
           “Introducing essential skills like launching a website and data
           analysis at a young age cements the foundation to a successful career
           in the future. ”
-        subtitle: 'Brandon Guidelines, Sr. Design Manager at Company'
+        subtitle: 'Founder, Pluto Academy (Previously A1 Code Academy)'
         image: images/brandon-guidelines.png
         image_alt: Brandon Guidelines
         media_position: right
