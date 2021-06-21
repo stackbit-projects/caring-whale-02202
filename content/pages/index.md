@@ -165,7 +165,6 @@ sections:
         image_position: left
         image_width: twenty-five
       - title: Interested in Participating in Our Classes?
-        subtitle: lorem-ipsum
         title_align: left
         content: >-
           ## Lorem ipsum
