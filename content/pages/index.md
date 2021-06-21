@@ -107,7 +107,7 @@ sections:
           session where you and your child will be using Tableau  to experience
           an introduction to Data Analysis!
         actions:
-          - label: Learn More
+          - label: Register Now!
             url: /style-guide
             style: primary
             has_icon: true
