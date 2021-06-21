@@ -7,7 +7,6 @@ categories:
   - content/data/categories/general.yaml
 tags:
   - content/data/tags/jamstack.yaml
-  - content/data/tags/netlify.yaml
 excerpt: >-
   One of the most important things in Personal Finance is the ability to manage
   one's budget. View the Allowance Budgeting Sheet that one of our students
