@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: Holistic Education for Kids 6-16 years old
+    title: Classes
     subtitle: 'Learn: Entrepreneurship, Personal Finance, Design, and Code'
     content: >+
       At Pluto Academy, we teach kids what it takes to succeed in our global new
