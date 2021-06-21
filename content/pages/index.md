@@ -27,7 +27,7 @@ sections:
     subtitle: Programs
     features:
       - title: Personal Finance 101
-        subtitle: '(SGD $35 Per Student, 60 minutes class)'
+        subtitle: '(SGD $35 Per Student, 1.5 hours Per class)'
         content: >+
           Warren Buffett bought his first share of stock at 11 yrs old.  It is
           NEVER to early to learn about Finance. Financial Literacy is a skill
