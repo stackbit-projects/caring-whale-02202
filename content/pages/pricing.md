@@ -17,7 +17,7 @@ sections:
 
           ### SGD $35
 
-          per 90 minutes
+          per 90 minutes, per student
 
           **Applies to the following classes:**
 
