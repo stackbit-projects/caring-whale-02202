@@ -1,8 +1,6 @@
 ---
 title: A functional website!
-subtitle: >-
-  Sit amet consectetur adipiscing elit pellentesque habitant morbi tristique
-  senectus.
+subtitle: Built a website for the final project of the Entrepreneurship Class!
 date: '2020-06-02'
 author: content/data/team/gustav-purpleson.yaml
 categories:
