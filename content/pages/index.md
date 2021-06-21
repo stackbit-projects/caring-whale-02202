@@ -134,7 +134,7 @@ sections:
     feature_padding_vert: small
     background_color: primary
   - type: grid_section
-    title: Reviews Section
+    title: Testimonials
     subtitle: What Parents Say
     grid_items:
       - content: >-
