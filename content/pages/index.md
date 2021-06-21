@@ -137,7 +137,7 @@ sections:
     title: Frequently Asked Questions
     subtitle: FAQ
     grid_items:
-      - title: Section Item 1
+      - title: '"When are your classes released?"'
         title_align: left
         content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
