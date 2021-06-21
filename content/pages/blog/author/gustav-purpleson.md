@@ -3,7 +3,7 @@ title: Pluto Academy
 sections:
   - type: hero_section
     title: Pluto Academy Team
-    subtitle: The optional subtitle
+    subtitle: Student's Past Work
     align: center
     padding_top: medium
     padding_bottom: none
