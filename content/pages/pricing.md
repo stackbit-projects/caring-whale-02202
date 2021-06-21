@@ -110,11 +110,12 @@ sections:
           Please send us an email at hi@plutoacademy.co and we'll arrange for a
           make up session (the next available class).
       - title: I'm not sure which class to register my child for.. can you help?
-        content: >-
-          Blandit aliquam etiam erat velit. In massa tempor nec feugiat.
-          Volutpat maecenas volutpat blandit aliquam. Sem integer vitae justo
-          eget magna fermentum iaculis. Amet est placerat in egestas erat
-          imperdiet sed euismod nisi. Facilisi morbi tempus iaculis urna.
+        content: >
+          We're happy to provide a free consultation via Whatsapp!
+
+
+          Simply text us here at +65 9751 1033 and we'll get back to you
+          shortly!
       - title: Porta nibh venenatis cras sed felis eget velit aliquet?
         content: >-
           Facilisis gravida neque convallis a cras semper auctor neque vitae.
