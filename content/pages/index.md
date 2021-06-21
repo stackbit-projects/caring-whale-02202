@@ -166,7 +166,7 @@ sections:
       this weekend!
     actions:
       - label: Free Consultation >>
-        url: /features
+        url: /general-enquiries
         style: secondary
     actions_position: right
     actions_width: fourty
