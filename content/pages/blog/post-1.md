@@ -10,7 +10,8 @@ categories:
   - content/data/categories/general.yaml
 excerpt: >-
   Project timeline and management is an essential skill in ensuring that your
-  project is launched on time.
+  project is launched on time. Have a look at how one of our students managed
+  her project timeline with Trello!
 thumb_image_alt: Post 1 placeholder image
 image: images/classic/post-1.png
 image_alt: Post 1 placeholder image
