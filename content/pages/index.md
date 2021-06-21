@@ -162,8 +162,8 @@ sections:
   - type: cta_section
     title: Not Sure Which Course to Take?
     content: >
-      Engage our friendly tutors via Whatsapp Text and let us find the best
-      class for your child this weekend!
+      Engage our friendly tutors and let us find the best class for your child
+      this weekend!
     actions:
       - label: Free Consultation >>
         url: /features
