@@ -9,7 +9,7 @@ sections:
   - type: features_section
     features:
       - title: How We Started
-        subtitle: 'Odio et tortor laoreet, sed interdum augue ornare. '
+        subtitle: 'Previously A1 Code Academy,'
         content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
           ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
