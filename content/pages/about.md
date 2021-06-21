@@ -38,10 +38,16 @@ sections:
         media_width: fifty
       - title: '..And we persevered, we thrived, we transformed!'
         subtitle: 'In 2021, Pluto Academy was reborn.'
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
+        content: >
+          Realizing the changing economy and needs of future leaders in
+          Singapore, our courses and curriculum standards evolved.
+
+
+          From ensuring that every teacher at A1 Code Academy is Google
+          Education Certified, to ensuring a smooth classroom experience and
+          learning experience for both our parents and children, Pluto Academy
+          today prides itself with delivering quality, holistic education to
+          support each and every child in her/his education journey.
         image: images/about-1.jpg
         image_alt: Happy co-workers
         media_position: right
