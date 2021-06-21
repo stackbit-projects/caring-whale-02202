@@ -3,7 +3,9 @@ title: Blog
 sections:
   - type: hero_section
     title: Student's Work
-    subtitle: The optional subtitle
+    subtitle: >-
+      Here, we feature the best works of our students. Browse through to get an
+      inspiration!
     align: center
     padding_top: medium
     padding_bottom: none
