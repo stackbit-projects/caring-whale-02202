@@ -56,10 +56,16 @@ sections:
     title: Our Officess
     grid_items:
       - title: Singapore (Physical Office)
-        content: >-
-          1234 Some St.<br/> Some City, ST 12345<br/>
-          [1-234-556-7890](tel:+12345567890)<br/>
-          [email@example.com](mailto:email@example.com)
+        content: |
+          35 Selegie Road
+
+          \#09-01 
+
+          Singapore 188307
+
+          hi@plutoacademy.com
+
+          \+65 9751 1033
         content_align: left
         actions:
           - label: Get Directions
