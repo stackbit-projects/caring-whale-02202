@@ -202,7 +202,7 @@ sections:
       available classes now:
     actions:
       - label: All Classes
-        url: /pricing
+        url: 'https://lu.ma/pluto-academy'
         style: primary
     actions_position: bottom
     align: center
