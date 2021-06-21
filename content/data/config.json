@@ -73,7 +73,7 @@
         "secondary_nav_title": "Classes",
         "secondary_nav_links": [
             {
-                "label": "News",
+                "label": "Pricing",
                 "url": "/blog/category/news",
                 "style": "link"
             },
