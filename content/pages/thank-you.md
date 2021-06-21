@@ -13,5 +13,6 @@ sections:
     align: center
     padding_bottom: large
     background_color: none
+    image: /images/Pluto Academy 18-min.png
 layout: advanced
 ---
