@@ -146,12 +146,10 @@ sections:
         image_alt: Hanson Deck
         image_position: left
         image_width: twenty-five
-      - content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus.
-
-
-          **Miles Tone,** *CEO, Studio*
+      - content: >
+          “My boy is shy so he took a private code class with tutors at Pluto
+          Academy, now he is creating all these games even his cousins find fun
+          to play with! I’m glad he has such progress!”
         image: images/miles-tone.png
         image_alt: Miles Tone
         image_position: left
