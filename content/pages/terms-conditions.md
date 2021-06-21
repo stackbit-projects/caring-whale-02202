@@ -23,7 +23,6 @@ layout: page
 ---
 Welcome to Pluto Academy, the website and mobile service of Cascadia Holdings PTE LTD (“Pluto Academy,” “we,” or “us”). This page explains the terms by which you may use our online and/or mobile services, website, and software provided on or in connection with the service (collectively the “Service”). By accessing or using the Service, you signify that you have read, understood, and agree to be bound by this Terms of Service Agreement (“Agreement”) and to the collection and use of your information as set forth in the Pluto Academy Privacy Policy , whether or not you are a registered user of our Service. This Agreement applies to all visitors, users, and others who access the Service (“Users”).
 
-
 PLEASE READ THIS AGREEMENT CAREFULLY TO ENSURE THAT YOU UNDERSTAND EACH PROVISION. THIS AGREEMENT CONTAINS A MANDATORY ARBITRATION OF DISPUTES PROVISION THAT REQUIRES THE USE OF ARBITRATION ON AN INDIVIDUAL BASIS TO RESOLVE DISPUTES, RATHER THAN JURY TRIALS OR CLASS ACTIONS.
 
 ## **1. Use of Our Service**
@@ -58,8 +57,6 @@ We may, without prior notice, change the Service; stop providing the Service or 
 
 You are solely responsible for your interactions with other Pluto Academy Users. We reserve the right, but have no obligation, to monitor disputes between you and other Users. Pluto Academy shall have no liability for your interactions with other Users, or for any User’s action or inaction.
 
-
-
 ## **2. User Content**
 
 Some areas of the Service allow Users to post content such as profile information, comments, questions, course content and other content or information (any such materials a User submits, posts, displays, or otherwise makes available on the Service “User Content”). Access to these features may be subject to age restrictions. We claim no ownership rights over User Content created by you. The User Content you create remains yours; however, by sharing User Content through the Service, you agree to allow others to view, edit, and/or share your User Content in accordance with your settings and this Agreement. Pluto Academy has the right (but not the obligation) in its sole discretion to remove any User Content that is shared via the Service.
@@ -76,33 +73,23 @@ Your User Content and Pluto Academy’s use thereof as contemplated by this Agre
 
 By posting any User Content on the Service, you expressly grant, and you represent and warrant that you have all rights necessary to grant, to Pluto Academy a royalty-free, sublicensable, transferable, perpetual, irrevocable, non-exclusive, worldwide license to use, reproduce, modify, publish, list information regarding, edit, translate, distribute, syndicate, publicly perform, publicly display, and make derivative works of all such User Content and your name, voice, and/or likeness as contained in your User Content, in whole or in part, and in any form, media or technology, whether now known or hereafter developed, for use in connection with the Service and Pluto Academy’s (and its successors’ and affiliates’) business, including without limitation for promoting and redistributing part or all of the Service (and derivative works thereof) in any media formats and through any media channels. You also hereby grant each User of the Service a non-exclusive license to access your User Content through the Service, and to use, display, reproduce and perform such User Content solely as permitted through the functionality of the Service and under this Agreement.
 
-
-
 ##  **4. Our Proprietary Rights**
 
 Except for your User Content, the Service and all materials therein or transferred thereby, including, without limitation, software, images, text, graphics, illustrations, logos, patents, trademarks, service marks, copyrights, photographs, audio, videos, music, and User Content belonging to other Users (the “Pluto Academy Content”), and all Intellectual Property Rights related thereto, are the exclusive property of Pluto Academy and its licensors (including other Users who post User Content to the Service). Except as explicitly provided herein, nothing in this Agreement shall be deemed to create a license in or under any such Intellectual Property Rights, and you agree not to sell, license, rent, modify, distribute, copy, reproduce, transmit, publicly display, publicly perform, publish, adapt, edit or create derivative works from any Pluto Academy Content. Use of the Pluto Academy Content for any purpose not expressly permitted by this Agreement is strictly prohibited.
 
 You may choose to or we may invite you to submit comments or ideas about the Service, including without limitation about how to improve the Service or our products (“Ideas”). By submitting any Idea, you agree that your disclosure is gratuitous, unsolicited and without restriction and will not place Pluto Academy under any fiduciary or other obligation, and that we are free to use the Idea without any additional compensation to you, and/or to disclose the Idea on a non-confidential basis or otherwise to anyone. You further acknowledge that, by acceptance of your submission, Pluto Academy does not waive any rights to use similar or related ideas previously known to Pluto Academy, or developed by its employees, or obtained from sources other than you.
 
-
-
 ## **6. Pluto Academy Indicators**
 
 Certain aspects of the Service may allow you to obtain certain reputational or status indicators (for example, points and badges for completing courses) (“Pluto Academy Indicators”). You understand and agree that regardless of terminology used, Pluto Academy Indicators represent a limited license right governed solely by the terms of this Agreement and available for distribution at Pluto Academy’s sole discretion. Pluto Academy Indicators are not redeemable for any sum of money or monetary value from Pluto Academy at any time. You acknowledge that you do not own the account you use to access the Service, nor do you possess any rights of access or rights to data stored by or on behalf of Pluto Academy on Pluto Academy servers, including without limitation any data representing or embodying any or all of your Pluto Academy Indicators. You agree that Pluto Academy has the absolute right to manage, regulate, control, modify and/or eliminate Pluto Academy Indicators as it sees fit in its sole discretion, in any general or specific case, and that Pluto Academy will have no liability to you based on its exercise of such right. All data on Pluto Academy’s servers are subject to deletion, alteration or transfer. NOTWITHSTANDING ANY VALUE ATTRIBUTED TO SUCH DATA BY YOU OR ANY THIRD PARTY, YOU UNDERSTAND AND AGREE THAT ANY DATA, ACCOUNT HISTORY AND ACCOUNT CONTENT RESIDING ON Pluto Academy’S SERVERS, MAY BE DELETED, ALTERED, MOVED OR TRANSFERRED AT ANY TIME FOR ANY REASON IN Pluto Academy’S SOLE DISCRETION, WITH OR WITHOUT NOTICE AND WITH NO LIABILITY OF ANY KIND. Pluto Academy DOES NOT PROVIDE OR GUARANTEE, AND EXPRESSLY DISCLAIMS, ANY VALUE, CASH OR OTHERWISE, ATTRIBUTED TO ANY DATA RESIDING ON Pluto Academy’S SERVERS.
-
-
 
 ## **F. Payment Information; Taxes**
 
 All information that you provide in connection with a purchase or transaction or other monetary transaction interaction with the Service must be accurate, complete, and current. You agree to pay all charges incurred by users of your credit card, debit card, or other payment method used in connection with a purchase or transaction or other monetary transaction interaction with the Service at the prices in effect when such charges are incurred. You will pay any applicable taxes relating to any such purchases, transactions or other monetary transaction interactions.
 
-
-
 ## **8. Privacy**
 
 We care about the privacy of our Users. You understand that by using the Services you consent to the collection, use and disclosure of your personally identifiable information and aggregate data as set forth in our Privacy Policy, and to have your personally identifiable information collected, used, transferred to and processed in the Singapore.
-
-
 
 ## **9. Security**
 
@@ -114,13 +101,9 @@ Pluto Academy cares about the integrity and security of your personal informatio
 
 The Service may contain links to third-party websites, advertisers, services, special offers, or other events or activities that are not owned or controlled by Pluto Academy. Pluto Academy does not endorse or assume any responsibility for any such third-party sites, information, materials, products, or services. If you access a third party website from the Service, you do so at your own risk, and you understand that this Agreement and Pluto Academy’s Privacy Policy do not apply to your use of such sites. You expressly relieve Pluto Academy from any and all liability arising from your use of any third-party website, service, or content. Additionally, your dealings with or participation in promotions of advertisers found on the Service, including payment and delivery of goods, and any other terms (such as warranties) are solely between you and such advertisers. You agree that Pluto Academy shall not be responsible for any loss or damage of any sort relating to your dealings with such advertisers.
 
-
-
 ## **12. Indemnity**
 
 You agree to defend, indemnify and hold harmless Pluto Academy and its subsidiaries, agents, licensors, managers, and other affiliated companies, and their employees, contractors, agents, officers and directors, from and against any and all claims, damages, obligations, losses, liabilities, costs or debt, and expenses (including but not limited to attorney’s fees) arising out of or related to: (i) your use of and access to the Service, including any data or content transmitted or received by you; (ii) your violation of any term of this Agreement, including without limitation your breach of any of the representations and warranties above; (iii) your violation of any third-party right, including without limitation any right of privacy or Intellectual Property Rights; (iv) your violation of any applicable law, rule or regulation; (v) User Content or any other information or content that is submitted via your account including without limitation misleading, false or inaccurate information; (vi) negligent or willful misconduct; or (vii) any other party’s access and use of other appropriate security code.
-
-
 
 ## **13. No Warranty**
 
@@ -129,8 +112,6 @@ THE SERVICE IS PROVIDED ON AN “AS IS” AND “AS AVAILABLE” BASIS. USE OF T
 SOME STATES DO NOT ALLOW THE EXCLUSION OF IMPLIED WARRANTIES, SO THE ABOVE EXCLUSIONS MAY NOT APPLY TO YOU. THIS AGREEMENT GIVES YOU SPECIFIC LEGAL RIGHTS, AND YOU MAY ALSO HAVE OTHER RIGHTS WHICH VARY FROM STATE TO STATE. THE DISCLAIMERS AND EXCLUSIONS UNDER THIS AGREEMENT WILL NOT APPLY TO THE EXTENT PROHIBITED BY APPLICABLE LAW.
 
 Pluto Academy DOES NOT WARRANT, ENDORSE, GUARANTEE, OR ASSUME RESPONSIBILITY FOR ANY PRODUCT OR SERVICE ADVERTISED OR OFFERED BY A THIRD PARTY THROUGH THE Pluto Academy SERVICE OR ANY HYPERLINKED WEBSITE OR SERVICE, AND Pluto Academy WILL NOT BE A PARTY TO OR IN ANY WAY MONITOR ANY TRANSACTION BETWEEN YOU AND THIRD-PARTY PROVIDERS OF PRODUCTS OR SERVICES.
-
-
 
 ## **14. Limitation of Liability**
 
@@ -143,3 +124,21 @@ THIS LIMITATION OF LIABILITY SECTION APPLIES WHETHER THE ALLEGED LIABILITY IS BA
 SOME STATES DO NOT ALLOW THE EXCLUSION OR LIMITATION OF INCIDENTAL OR CONSEQUENTIAL DAMAGES, SO THE ABOVE LIMITATIONS OR EXCLUSIONS MAY NOT APPLY TO YOU. THIS AGREEMENT GIVES YOU SPECIFIC LEGAL RIGHTS, AND YOU MAY ALSO HAVE OTHER RIGHTS WHICH VARY FROM STATE TO STATE. THE EXCLUSIONS AND LIMITATIONS OF LIABILITY UNDER THIS AGREEMENT WILL NOT APPLY TO THE EXTENT PROHIBITED BY APPLICABLE LAW.
 
 The Service is controlled and operated from facilities in the Singapore. Pluto Academy makes no representations that the Service is appropriate or available for use in other locations. Those who access or use the Service from other jurisdictions do so at their own volition and are entirely responsible for compliance with all applicable Singapore and local laws and regulations, including but not limited to export and import regulations. You may not use the Service if you are a resident of a country embargoed by the Singapore, or are a foreign person or entity blocked or denied by the Singapore government. Unless otherwise explicitly stated, all materials found on the Service are solely directed to individuals, companies, or other entities located in the Singapore.
+
+
+
+# **Governing Law and Arbitration**
+
+### **A. Governing Law.**
+
+You agree that: (i) the Service shall be deemed solely based in Singapore; and (ii) the Service shall be deemed a passive one that does not give rise to personal jurisdiction over Pluto Academy, either specific or general, in jurisdictions other than Singapore. This Agreement shall be governed by the internal substantive laws of the State of Singapore, without respect to its conflict of laws principles. The parties acknowledge that this Agreement evidences a transaction involving interstate commerce. Notwithstanding the preceding sentences with respect to the substantive law, any arbitration conducted pursuant to the terms of this Agreement shall be governed by the Federal Arbitration Act (9 U.S.C. §§ 1-16). The application of the United Nations Convention on Contracts for the International Sale of Goods is expressly excluded. You agree to submit to the personal jurisdiction of the federal and state courts located in Singapore County, Singapore for any actions for which we retain the right to seek injunctive or other equitable relief in a court of competent jurisdiction to prevent the actual or threatened infringement, misappropriation or violation of a our copyrights, trademarks, trade secrets, patents, or other intellectual property or proprietary rights, as set forth in the Arbitration provision below.
+
+### **B. Arbitration.**
+
+READ THIS SECTION CAREFULLY BECAUSE IT REQUIRES THE PARTIES TO ARBITRATE THEIR DISPUTES AND LIMITS THE MANNER IN WHICH YOU CAN SEEK RELIEF FROM Pluto Academy. In the unlikely event that Pluto Academy has not been able to resolve a dispute it has with you after 60 days, we each agree to resolve any claim, dispute, or controversy (excluding any Pluto Academy claims for injunctive or other equitable relief) arising out of or in connection with or relating to these Terms of Service, or the breach or alleged breach thereof (collectively, “Claims”), by binding arbitration by the Judicial Mediation and Arbitration Services (“JAMS”) under the Optional Expedited Arbitration Procedures then in effect for JAMS, except as provided herein. The arbitration will be conducted in Singapore, Singapore, unless you and Pluto Academy agree otherwise. Each party will be responsible for paying any JAMS filing, administrative and arbitrator fees in accordance with JAMS rules. The award rendered by the arbitrator shall include costs of arbitration, reasonable attorneys’ fees and reasonable costs for expert and other witnesses, and any judgment on the award rendered by the arbitrator may be entered in any court of competent jurisdiction. Nothing in this Section shall be deemed as preventing Pluto Academy from seeking injunctive or other equitable relief from the courts as necessary to protect any of Pluto Academy’s proprietary interests. ALL CLAIMS MUST BE BROUGHT IN THE PARTIES’ INDIVIDUAL CAPACITY, AND NOT AS A PLAINTIFF OR CLASS MEMBER IN ANY PURPORTED CLASS ACTION, COLLECTIVE ACTION, PRIVATE ATTORNEY GENERAL ACTION OR OTHER REPRESENTATIVE PROCEEDING. THIS WAIVER APPLIES TO CLASS ARBITRATION, AND, UNLESS WE AGREE OTHERWISE, THE ARBITRATOR MAY NOT CONSOLIDATE MORE THAN ONE PERSON’S CLAIMS. YOU AGREE THAT, BY ENTERING INTO THIS TERMS OF SERVICE, YOU AND Pluto Academy ARE EACH WAIVING THE RIGHT TO A TRIAL BY JURY OR TO PARTICIPATE IN A CLASS ACTION, .COLLECTIVE ACTION, PRIVATE ATTORNEY GENERAL ACTION, OR OTHER REPRESENTATIVE PROCEEDING OF ANY KIND.
+
+ 
+
+ 
+
+ 
