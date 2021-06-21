@@ -107,6 +107,16 @@ sections:
 
           Please reach our team via the enquiry form and we'll arrange for a
           make up session (the next available class).
+        actions:
+          - label: lorem-ipsum
+            url: '#'
+            style: link
+            has_icon: false
+            icon: arrow-left
+            icon_position: right
+            new_window: false
+            no_follow: false
+            type: action
       - title: I'm not sure which class to register my child for.. can you help?
         content: |
           **We're happy to provide a free consultation!**
