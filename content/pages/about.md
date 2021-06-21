@@ -26,10 +26,12 @@ sections:
         media_width: fifty
       - title: 'Initially, the pivot wasn''t easy..'
         subtitle: 'Like every other company, we struggled, too!'
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
+        content: >
+          From finding the right video platform to engage our students, to
+          guiding our parents through this transition to online-based learning,
+          things were not easy for anyone. Our team spent an entire week,
+          burning through our curriculum materials to optimize them for the
+          online-learning experience. 
         image: images/about-2.jpg
         image_alt: People in a conference room
         media_position: left
