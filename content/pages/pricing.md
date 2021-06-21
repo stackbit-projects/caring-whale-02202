@@ -26,7 +26,7 @@ sections:
         content_align: left
         actions:
           - label: Register Now >>
-            url: /features
+            url: 'https://lu.ma/pluto-academy'
             style: primary
         actions_align: left
         actions_width: full-width
