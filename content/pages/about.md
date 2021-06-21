@@ -3,7 +3,7 @@ title: About
 sections:
   - type: hero_section
     title: Pluto Academy
-    subtitle: About Page Demo
+    subtitle: About Us
     align: center
     background_color: secondary
   - type: features_section
