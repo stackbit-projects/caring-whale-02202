@@ -110,12 +110,10 @@ sections:
           Please send us an email at hi@plutoacademy.co and we'll arrange for a
           make up session (the next available class).
       - title: I'm not sure which class to register my child for.. can you help?
-        content: >
-          We're happy to provide a free consultation via Whatsapp!
+        content: |
+          **We're happy to provide a free consultation!**
 
-
-          Simply text us here at +65 9751 1033 and we'll get back to you
-          shortly!
+          Simply send us an enquiry and we'll get back to you shortly!
     grid_cols: two
     grid_gap_horiz: medium
     grid_gap_vert: medium
