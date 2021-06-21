@@ -178,7 +178,7 @@ sections:
     padding_bottom: large
     background_color: primary
   - type: blog_feed_section
-    title: What's New
+    title: View Our Student's Projects!
     subtitle: Student's Projects
     actions:
       - label: View All
