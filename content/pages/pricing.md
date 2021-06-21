@@ -31,7 +31,7 @@ sections:
         actions_align: left
         actions_width: full-width
       - title: 5-Day Entrepreneur Class
-        subtitle: Optional subtitle
+        subtitle: Group Classes
         title_align: left
         content: |-
           ---
