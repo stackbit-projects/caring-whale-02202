@@ -21,7 +21,7 @@ sections:
 
         content_align: center
         actions:
-          - label: Get Support
+          - label: neS
             url: /general-enquiries
             style: link
             has_icon: true
