@@ -59,13 +59,9 @@ sections:
         content: |
           35 Selegie Road
 
-          \#09-01 
+          \#09-01
 
           Singapore 188307
-
-          hi@plutoacademy.com
-
-          \+65 9751 1033
         content_align: left
         actions: []
         actions_align: left
