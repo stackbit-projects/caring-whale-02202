@@ -10,10 +10,16 @@ sections:
     features:
       - title: How We Started
         subtitle: 'Previously A1 Code Academy,'
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
+        content: >
+          our beginnings were humble.
+
+
+          Our first class began in 2019, branded under the academy name "A1 Code
+          Academy". Our classes focused purely around coding, which today has
+          evolved into a more holistic curriculum, introducing topics such as
+          entrepreneurship, personal finance, and data analytics. Since the
+          Covid-19 Crisis of 2020, Pluto Academy (then A1 Code Academy) moved
+          all its classes online. 
         image: /images/classic/feature-2.png
         image_alt: People in conversation in the office lounge area
         media_position: right
