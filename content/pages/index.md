@@ -204,7 +204,7 @@ sections:
       We would love to see you at one of our classes this weekend! Check out our
       available classes now:
     actions:
-      - label: Button
+      - label: All Classes
         url: /pricing
         style: primary
     actions_position: bottom
