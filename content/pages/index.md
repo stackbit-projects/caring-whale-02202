@@ -14,7 +14,7 @@ sections:
       - label: View All Classes >>
         url: 'https://lu.ma/pluto-academy'
         style: primary
-    image: /images/Pluto Academy Header.png
+    image: /images/Pluto Academy Header T.png
     image_alt: Hero section placeholder image
     media_position: left
     media_width: fifty
