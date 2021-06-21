@@ -77,13 +77,7 @@ sections:
           virtual cafe will be sent to you once you have paid and registered for
           any of Pluto's classes.
         content_align: left
-        actions:
-          - label: Get Directions
-            url: 'https://goo.gl/maps/eh6fn7JjMS4vYs337'
-            style: link
-            has_icon: true
-            icon: arrow-right
-            icon_position: right
+        actions: []
         actions_align: left
         actions_width: auto
     grid_cols: four
