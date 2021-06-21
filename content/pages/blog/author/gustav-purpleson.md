@@ -1,5 +1,5 @@
 ---
-title: Gustav Purpleson
+title: Pluto Academy
 sections:
   - type: hero_section
     title: Gustav Purpleson
