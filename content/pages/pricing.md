@@ -66,7 +66,7 @@ sections:
         content_align: left
         actions:
           - label: Enquire!
-            url: hi@plutoacademy.co
+            url: /
             style: primary
         actions_align: left
         actions_width: full-width
