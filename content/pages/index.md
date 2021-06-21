@@ -29,7 +29,7 @@ sections:
     title: 'Live, online classes every weekend!'
     subtitle: Programs
     features:
-      - title: The Big Title For the Feature
+      - title: Personal Finance 101
         subtitle: 'In fermentum odio et tortor laoreet, sed interdum augue ornare. '
         content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
