@@ -116,11 +116,6 @@ sections:
 
           Simply text us here at +65 9751 1033 and we'll get back to you
           shortly!
-      - title: Porta nibh venenatis cras sed felis eget velit aliquet?
-        content: >-
-          Facilisis gravida neque convallis a cras semper auctor neque vitae.
-          Dictum varius duis at consectetur lorem donec massa. Porta non
-          pulvinar neque laoreet suspendisse interdum consectetur libero.
     grid_cols: two
     grid_gap_horiz: medium
     grid_gap_vert: medium
