@@ -200,10 +200,9 @@ sections:
     background_color: none
   - type: cta_section
     title: Sign Up for Our Classes!
-    content: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-      ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-      fringilla, fringilla.
+    content: >
+      We would love to see you at one of our classes this weekend! Check out our
+      available classes now:
     actions:
       - label: Button
         url: /pricing
