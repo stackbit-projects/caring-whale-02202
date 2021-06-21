@@ -53,18 +53,16 @@ sections:
       - title: Custom
         subtitle: School Programs / 1-to-1 Classes
         title_align: left
-        content: |-
-          ---
+        content: |
+          ***
 
-          ### $39
+          ### SGD - Varies, Please Enquire!
 
-          per month, billed yearly
+          Varies based on requirements. Please enquire.
 
-          * Et semper leo mattis orci conubia congue
-          * Quisque eleifend imperdiet tortor
-          * Elementum eu rhoncus, volutpat
-          * Nisi cubilia interdum ultricies
-          * Feugiat porta tortor
+          Applicable to any class, student size, location.
+
+          **Please enquire via email at hi@plutoacademy.com for a quote.**
         content_align: left
         actions:
           - label: Start with Business
