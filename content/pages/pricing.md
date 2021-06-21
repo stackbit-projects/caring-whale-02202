@@ -102,10 +102,10 @@ sections:
           [**https://lu.ma/pluto-academy**](https://lu.ma/pluto-academy)
       - title: What if my child's laptop hangs in the middle of the class?
         content: >
-          These things do happen from time to time! 
+          These things do happen from time to time!
 
 
-          Please send us an email at hi@plutoacademy.co and we'll arrange for a
+          Please reach our team via the enquiry form and we'll arrange for a
           make up session (the next available class).
       - title: I'm not sure which class to register my child for.. can you help?
         content: |
