@@ -12,7 +12,7 @@ sections:
 
     actions:
       - label: View All Classes >>
-        url: /pricing
+        url: 'https://lu.ma/pluto-academy'
         style: primary
     image: images/classic/hero.png
     image_alt: Hero section placeholder image
