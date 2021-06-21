@@ -65,7 +65,7 @@ sections:
           **Please enquire via email at hi@plutoacademy.com for a quote.**
         content_align: left
         actions:
-          - label: Start with Business
+          - label: Enquire!
             url: /features
             style: primary
         actions_align: left
