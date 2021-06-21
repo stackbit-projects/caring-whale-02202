@@ -58,11 +58,9 @@ sections:
 
           ### SGD - Varies, Please Enquire!
 
-          Varies based on requirements. Please enquire.
+          Varies based on requirements. Please enquire via our contact form.
 
           Applicable to any class, student size, location.
-
-          **Please enquire via email at hi@plutoacademy.co for a quote.**
         content_align: left
         actions:
           - label: Enquire!
