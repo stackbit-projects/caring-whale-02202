@@ -82,10 +82,22 @@ sections:
     title: 'You asked, we answered!'
     grid_items:
       - title: What do I need to prepare for a class?
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
+        content: >
+          *   Good wifi connection
+
+
+          *   A laptop
+
+
+          *   Preferably an adult to accompany the child throughout the session
+
+
+          For all classes except Data Analysis, no download of other
+          applications or programs will be required.
+
+
+          For Data Analysis course, the instructions for recommended
+          applications to download will be sent to you via email.
       - title: Sagittis vitae et leo duis ut diam?
         content: >-
           Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
