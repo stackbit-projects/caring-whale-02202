@@ -51,7 +51,7 @@ sections:
         actions_align: left
         actions_width: full-width
       - title: Custom
-        subtitle: Optional subtitle
+        subtitle: School Programs / 1-to-1 Classes
         title_align: left
         content: |-
           ---
