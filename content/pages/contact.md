@@ -33,9 +33,12 @@ sections:
         image_has_padding: true
       - title: Help & Support
         title_align: center
-        content: >-
-          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
-          diam quam nulla.
+        content: >
+          Enquiring about a class?
+
+
+          Please contact us at hi@plutoacademy.co with your full name and mobile
+          number!
         content_align: center
         actions:
           - label: Get Support
