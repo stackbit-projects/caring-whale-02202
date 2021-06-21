@@ -155,7 +155,7 @@ sections:
         image_position: left
         image_width: twenty-five
       - content: >
-          *" found the Data Analysis course was very well structured and
+          *"I found the Data Analysis course was very well structured and
           engaging. As a data science person myself, I find it hard to explain
           what I do to my son. I'm glad he got the chance to participate in this
           course, the teacher managed to decipher what I do into very
