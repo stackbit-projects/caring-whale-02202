@@ -62,7 +62,7 @@ sections:
 
           Applicable to any class, student size, location.
 
-          **Please enquire via email at hi@plutoacademy.com for a quote.**
+          **Please enquire via email at hi@plutoacademy.co for a quote.**
         content_align: left
         actions:
           - label: Enquire!
