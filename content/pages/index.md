@@ -242,7 +242,7 @@ seo:
       value: Pluto Academy
       keyName: property
     - name: 'og:description'
-      value: The preview of the DIY theme
+      value: Holistic Education for Kids Aged 6-16 Years Old
       keyName: property
     - name: 'og:image'
       value: images/diy-preview.png
@@ -253,7 +253,7 @@ seo:
     - name: 'twitter:title'
       value: Pluto Academy
     - name: 'twitter:description'
-      value: The preview of the DIY theme
+      value: Holistic Education for Kids Aged 6-16 Years Old
     - name: 'twitter:image'
       value: images/diy-preview.png
       relativeUrl: true
