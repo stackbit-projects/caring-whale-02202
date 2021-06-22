@@ -253,7 +253,7 @@ seo:
     - name: 'twitter:title'
       value: Pluto Academy
     - name: 'twitter:description'
-      value: Holistic Education for Kids Aged 6-16 Years Old
+      value: Holistic Education for Kids Aged 6-16 Years Old - Personal Finance, Entrepreneurship, Data Analytics
     - name: 'twitter:image'
       value: images/Luma-Cover.png
       relativeUrl: true
