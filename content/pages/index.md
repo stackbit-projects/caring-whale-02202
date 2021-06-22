@@ -245,7 +245,7 @@ seo:
       value: Holistic Education for Kids Aged 6-16 Years Old
       keyName: property
     - name: 'og:image'
-      value: images/diy-preview.png
+      value: images/Luma-Cover.png
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
@@ -255,7 +255,7 @@ seo:
     - name: 'twitter:description'
       value: Holistic Education for Kids Aged 6-16 Years Old
     - name: 'twitter:image'
-      value: images/diy-preview.png
+      value: images/Luma-Cover.png
       relativeUrl: true
 layout: advanced
 ---
