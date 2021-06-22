@@ -233,7 +233,7 @@ sections:
     background_color: secondary
 seo:
   title: Pluto Academy
-  description: The preview of the DIY theme
+  description: Holistic Education for Kids Aged 6-16 Years Old
   extra:
     - name: 'og:type'
       value: website
