@@ -233,7 +233,7 @@ sections:
     background_color: secondary
 seo:
   title: Pluto Academy
-  description: Holistic Education for Kids Aged 6-16 Years Old
+  description: Holistic Education for Kids Aged 6-16 Years Old - Personal Finance, Entrepreneurship, Data Analytics
   extra:
     - name: 'og:type'
       value: website
@@ -242,7 +242,7 @@ seo:
       value: Pluto Academy
       keyName: property
     - name: 'og:description'
-      value: Holistic Education for Kids Aged 6-16 Years Old
+      value: Holistic Education for Kids Aged 6-16 Years Old - Personal Finance, Entrepreneurship, Data Analytics
       keyName: property
     - name: 'og:image'
       value: images/Luma-Cover.png
