@@ -61,7 +61,7 @@ sections:
             icon_position: right
         actions_align: center
         image: images/classic/icon-3.svg
-        image_alt: Other queries icon
+        image_alt: Pluto Academy Singapore
         image_position: top
         image_align: center
         image_has_padding: true
