@@ -33,12 +33,10 @@ sections:
         image_has_padding: true
       - title: Help & Support
         title_align: center
-        content: >
+        content: |
           Enquiring about a class?
 
-
-          **Please contact us at hi@pluto.academy with your full name and mobile
-          number!**
+          **Get in touch with our team via:**
         content_align: center
         actions: []
         actions_align: center
