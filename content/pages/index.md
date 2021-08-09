@@ -147,7 +147,7 @@ sections:
           in the future. ”
         subtitle: Pluto Academy (Previously A1 Code Academy)
         image: /images/Pluto Academy 11-min.png
-        image_alt: Pluto Academy Personal Finance Class
+        image_alt: Pluto Academy Singapore
         media_position: right
         media_width: thirty-three
     feature_padding_vert: small
