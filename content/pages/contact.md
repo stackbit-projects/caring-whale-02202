@@ -27,7 +27,7 @@ sections:
             icon_position: right
         actions_align: center
         image: images/classic/icon-1.svg
-        image_alt: Partnering and sponsorships icon
+        image_alt: Pluto Academy Singapore
         image_position: top
         image_align: center
         image_has_padding: true
