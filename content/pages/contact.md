@@ -39,7 +39,7 @@ sections:
           **Get in touch with our team via:**
         content_align: center
         actions:
-          - label: lorem-ipsum
+          - label: Enquire
             url: '#'
             style: secondary
             has_icon: false
