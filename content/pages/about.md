@@ -100,7 +100,9 @@ sections:
     background_color: primary
 seo:
   title: Pluto Academy (Singapore)
-  description: This is the about us page
+  description: >-
+    Holistic Education for Kids Aged 6-16 Years Old - Personal Finance,
+    Entrepreneurship, Data Analytics Classes.
   extra:
     - name: 'og:type'
       value: website
