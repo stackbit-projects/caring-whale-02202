@@ -21,7 +21,7 @@ sections:
           Covid-19 Crisis of 2020, Pluto Academy (then A1 Code Academy) moved
           all its classes online. 
         image: /images/classic/feature-2.png
-        image_alt: Pluto Academy Personal Finance Class
+        image_alt: Pluto Academy Singapore
         media_position: right
         media_width: fifty
       - title: 'Initially, the pivot wasn''t easy..'
