@@ -49,7 +49,7 @@ sections:
           today prides itself with delivering quality, holistic education to
           support each and every child in her/his education journey.
         image: images/about-1.jpg
-        image_alt: Happy co-workers
+        image_alt: Pluto Academy Singapore
         media_position: right
         media_width: fifty
   - type: grid_section
