@@ -23,11 +23,6 @@
                 "style": "link"
             },
             {
-                "label": "Student's Work",
-                "url": "/blog",
-                "style": "link"
-            },
-            {
                 "label": "Careers",
                 "url": "https://www.linkedin.com/company/pluto-academy/job",
                 "style": "link"
