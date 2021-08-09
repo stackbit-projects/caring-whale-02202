@@ -160,7 +160,6 @@ sections:
           teacher at Pluto Academy. They liked her very much and told me they
           enjoyed the class. They get so excited to make programs that they have
           the ability to control! Highly recommended!”
-        image: images/hanson-deck.png
         image_alt: Hanson Deck
         image_position: left
         image_width: twenty-five
