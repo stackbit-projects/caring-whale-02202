@@ -146,7 +146,7 @@ sections:
           in the future. ”
         subtitle: Pluto Academy (Previously A1 Code Academy)
         image: /images/about-2.jpg
-        image_alt: Pluto Academy Data Science Class
+        image_alt: 'Pluto Academy '
         media_position: right
         media_width: thirty-three
     feature_padding_vert: small
