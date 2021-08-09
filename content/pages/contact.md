@@ -43,7 +43,7 @@ sections:
         actions: []
         actions_align: center
         image: images/classic/icon-2.svg
-        image_alt: Help and support icon
+        image_alt: Pluto Academy Singapore
         image_position: top
         image_align: center
         image_has_padding: true
