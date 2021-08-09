@@ -19,7 +19,7 @@ sections:
           Please drop us a message with more details of your program:
         content_align: center
         actions:
-          - label: Send Enquiry
+          - label: Partnerships Enquiry
             url: /general-enquiries
             style: link
             has_icon: true
