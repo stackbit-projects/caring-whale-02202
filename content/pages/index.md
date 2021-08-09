@@ -15,7 +15,7 @@ sections:
         url: 'https://lu.ma/pluto-academy'
         style: primary
     image: /images/2274_R0lVIEFOTiAwODMtNDg _Converted_.png
-    image_alt: 'Pluto Academy '
+    image_alt: Pluto Academy Singapore
     media_position: left
     media_width: fifty
     align: left
