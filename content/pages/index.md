@@ -133,7 +133,7 @@ sections:
             icon: arrow-right
             icon_position: right
         image: /images/Pluto Academy 9-min.png
-        image_alt: Pluto Academy Personal Finance Class
+        image_alt: Pluto Academy Data Science Class
         media_position: right
         media_width: fifty
     feature_padding_vert: large
