@@ -103,7 +103,7 @@ sections:
             icon: arrow-right
             icon_position: right
         image: /images/Pluto Academy 10-min.png
-        image_alt: Pluto Academy Personal Finance Class
+        image_alt: Pluto Academy Entrepreneurship Class
         media_position: left
         media_width: fifty
       - title: Intro to Data Analysis Class with Tableau!
