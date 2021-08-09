@@ -40,7 +40,7 @@ sections:
         content_align: center
         actions:
           - label: Enquire
-            url: '#'
+            url: 'https://pluto.academy/general-enquiries/'
             style: secondary
             has_icon: false
             icon: arrow-left
