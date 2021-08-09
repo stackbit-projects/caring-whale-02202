@@ -33,7 +33,7 @@ sections:
           burning through our curriculum materials to optimize them for the
           online-learning experience. 
         image: images/about-2.jpg
-        image_alt: People in a conference room
+        image_alt: Pluto Academy Singapore
         media_position: left
         media_width: fifty
       - title: '..And we persevered, we thrived, we transformed!'
