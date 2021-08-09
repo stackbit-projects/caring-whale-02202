@@ -170,7 +170,6 @@ sections:
           what I do to my son. I'm glad he got the chance to participate in this
           course, the teacher managed to decipher what I do into very
           easy-to-understand pieces of learning content."
-        image: images/miles-tone.png
         image_alt: Miles Tone
         image_position: left
         image_width: twenty-five
