@@ -122,7 +122,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: 'https://www.pluto.academy'
+      value: Pluto Academy (Singapore)
     - name: 'twitter:description'
       value: >-
         Holistic Education for Kids Aged 6-16 Years Old - Personal Finance,
