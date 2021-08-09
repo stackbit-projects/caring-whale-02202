@@ -108,7 +108,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: About
+      value: ' https://www.pluto.academy'
       keyName: property
     - name: 'og:description'
       value: >-
