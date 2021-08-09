@@ -15,7 +15,7 @@ sections:
         url: 'https://lu.ma/pluto-academy'
         style: primary
     image: /images/2274_R0lVIEFOTiAwODMtNDg _Converted_.png
-    image_alt: Hero section placeholder image
+    image_alt: Pluto Academy Data Science Class
     media_position: left
     media_width: fifty
     align: left
