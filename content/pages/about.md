@@ -111,7 +111,9 @@ seo:
       value: About
       keyName: property
     - name: 'og:description'
-      value: This is the about us page
+      value: >-
+        Holistic Education for Kids Aged 6-16 Years Old - Personal Finance,
+        Entrepreneurship, Data Analytics Classes.
       keyName: property
     - name: 'og:image'
       value: /images/Luma-Cover.png
