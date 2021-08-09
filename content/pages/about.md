@@ -122,7 +122,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: About
+      value: 'https://www.pluto.academy'
     - name: 'twitter:description'
       value: >-
         Holistic Education for Kids Aged 6-16 Years Old - Personal Finance,
