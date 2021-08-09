@@ -67,7 +67,7 @@ sections:
             icon: arrow-right
             icon_position: right
         image: /images/Pluto Academy  -min.png
-        image_alt: Pluto Academy Data Science Class
+        image_alt: Pluto Academy Personal Finance Class
         media_position: right
         media_width: fifty
       - title: 5-Part + Demo Day Entrepreneurship Class!
