@@ -124,7 +124,9 @@ seo:
     - name: 'twitter:title'
       value: About
     - name: 'twitter:description'
-      value: This is the about us page
+      value: >-
+        Holistic Education for Kids Aged 6-16 Years Old - Personal Finance,
+        Entrepreneurship, Data Analytics Classes.
     - name: 'twitter:image'
       value: /images/Luma-Cover.png
       relativeUrl: true
